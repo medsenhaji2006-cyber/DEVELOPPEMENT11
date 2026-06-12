@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: #222222;
+}
+.div1{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 100%;
+    height: 100vh;
+
+}
+.div11{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.google{
+    width: 40px;
+    height: 40px;
+}
+
+.divimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    font-size: 20px;
+}
+
+.divprin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
